@@ -1,7 +1,20 @@
 # unicorn
 
-Tableau Dashboard: https://public.tableau.com/app/profile/leela.yathapu/viz/UnicornPerformanceMatrix/UnicornPerformaceMatrix
-Video Presentation: https://www.loom.com/share/2017b7336be0499e9ca999e98332cd87?sid=57b8fe5e-1547-4e85-89a6-d1d5450b9b23
+
+Tableau Dashboard 
+https://public.tableau.com/app/profile/sultan.riaz/viz/UNI_17298767403110/Dashboard?publish=yes
+
+Presentation 
+https://docs.google.com/presentation/d/1tGx3wjS1nY1FIwGSy2000JmIXHA_gxPcbYbQp8ZDoWU/edit#slide=id.p
+
+SQL Findings 
+https://colab.research.google.com/drive/1N87ya7WQKiitZ9H33HkUh1idBH3ksbyy?usp=sharing
+
+Spreadsheet Findings 
+https://docs.google.com/spreadsheets/d/1LTjEBos_OqGSAygSxg3q9ZLiHB0pgeCzAFATnmLEEnI/edit?gid=695363790#gid=695363790
+
+Additional Business Metrics
+https://docs.google.com/document/d/1KSw5mTMFiHk5QbnB61WTY6ZaYwFebs5G/edit#heading=h.pdin5knwuir0
 
 # Project Overview
 
