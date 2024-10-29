@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1KSw5mTMFiHk5QbnB61WTY6ZaYwFebs5G/edit#headin
 
 # Project Overview
 
-This project analyzes Unicorn's sales data to uncover insights for business growth. We examined trends in customer behavior, product performance, and regional profitability using Google Sheets, SQL, and Tableau.
+This project analyzes Unicorn's sales data to uncover insights for business growth. Examined trends in customer behavior, product performance, and regional profitability using Google Sheets, SQL, and Tableau.
 
 ## Approach to Data
 
